@@ -26,8 +26,4 @@ Before running this project, ensure you have the following installed on your mac
 - MySQL JDBC Connector
 - A Java IDE (like IntelliJ IDEA or Eclipse)
 
-## Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashaldsouza/BankingSystem-JavaMySQ.git
